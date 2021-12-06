@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Minjung Kwon
+- 👋 Hi, my name is Minjung Kwon
 - 👀 I’m interested in machine learning & quantum computing
 - 🌱 I’m currently learning Electrical & Computer Engineering at Cornell
 - 💞️ I’m looking to collaborate on any fun project!
